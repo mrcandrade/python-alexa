@@ -6,7 +6,7 @@ Este projeto é um assistente de voz semelhante ao Alexa, que pode executar vár
 
 Certifique-se de ter os seguintes pacotes instalados:
 
-
+```sh
 pip install SpeechRecognition
 pip install pyttsx3
 pip install pywhatkit
